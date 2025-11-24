@@ -1,0 +1,134 @@
+{
+  "app": {
+    "title": "Zeyryth'Studio",
+    "tagline": "Your creative color design platform"
+  },
+  "nav": {
+    "home": "Home",
+    "colorPicker": "Color Picker",
+    "palettes": "Palettes",
+    "textures": "Textures",
+    "chat": "Global Chat",
+    "profile": "Profile",
+    "friends": "Friends",
+    "leaderboard": "Leaderboard",
+    "logout": "Logout"
+  },
+  "auth": {
+    "login": "Login",
+    "loginRequired": "Login Required",
+    "loginMessage": "Please login to access Zeyryth'Studio",
+    "welcome": "Welcome back"
+  },
+  "colorPicker": {
+    "title": "Color Picker",
+    "uploadImage": "Upload Image",
+    "selectColor": "Click on the image to select a color",
+    "magnifier": "Use magnifier for precision",
+    "selectedColor": "Selected Color",
+    "addToPalette": "Add to Palette",
+    "createPalette": "Create Palette"
+  },
+  "palettes": {
+    "title": "My Palettes",
+    "public": "Public Palettes",
+    "create": "Create New Palette",
+    "name": "Name",
+    "description": "Description",
+    "colors": "Colors",
+    "isPublic": "Make public",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "share": "Share",
+    "shareWith": "Share with",
+    "shared": "Shared Palettes",
+    "copyHex": "Copy HEX",
+    "copyRgb": "Copy RGB",
+    "exportHtml": "Export HTML"
+  },
+  "textures": {
+    "title": "Texture Generator",
+    "marble": "Marble",
+    "wood": "Wood",
+    "skin": "Human Skin",
+    "generate": "Generate Texture",
+    "download": "Download",
+    "tips": "Tips",
+    "marbleTips": "To create realistic marble textures, use soft colors with irregular veins and moderate contrast.",
+    "woodTips": "Wood textures need consistent grain lines and subtle color variations to look natural.",
+    "skinTips": "Human skin tones vary. Use smooth gradients and add subtle details for realism.",
+    "types": {
+      "carrara": "Carrara",
+      "calacatta": "Calacatta",
+      "nero": "Nero Marquina",
+      "oak": "Oak",
+      "walnut": "Walnut",
+      "pine": "Pine",
+      "light": "Light",
+      "medium": "Medium",
+      "dark": "Dark"
+    }
+  },
+  "chat": {
+    "title": "Global Chat",
+    "typeMessage": "Type a message...",
+    "send": "Send",
+    "online": "Online",
+    "offline": "Offline"
+  },
+  "profile": {
+    "title": "Profile",
+    "edit": "Edit Profile",
+    "avatar": "Avatar",
+    "bio": "Bio",
+    "activityPoints": "Activity Points",
+    "currentTitle": "Current Title",
+    "trophies": "Trophies",
+    "achievements": "Achievements",
+    "save": "Save",
+    "titles": {
+      "novice": "Novice",
+      "apprentice": "Apprentice",
+      "artist": "Artist",
+      "master": "Master",
+      "legend": "Legend"
+    }
+  },
+  "friends": {
+    "title": "Friends",
+    "add": "Add Friend",
+    "requests": "Requests",
+    "accept": "Accept",
+    "reject": "Reject",
+    "sendMessage": "Send Message",
+    "messages": "Messages",
+    "noFriends": "You don't have any friends yet",
+    "noPendingRequests": "No pending requests"
+  },
+  "leaderboard": {
+    "title": "Leaderboard",
+    "rank": "Rank",
+    "user": "User",
+    "points": "Points",
+    "title_label": "Title"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "close": "Close"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "app": {
+    "title": "Zeyryth'Studio",
+    "tagline": "Sua plataforma criativa de design de cores"
+  },
+  "nav": {
+    "home": "Início",
+    "colorPicker": "Coletor de Cores",
+    "palettes": "Paletas",
+    "textures": "Texturas",
+    "chat": "Chat Global",
+    "profile": "Perfil",
+    "friends": "Amigos",
+    "leaderboard": "Ranking",
+    "logout": "Sair"
+  },
+  "auth": {
+    "login": "Entrar",
+    "loginRequired": "Login necessário",
+    "loginMessage": "Faça login para acessar o Zeyryth'Studio",
+    "welcome": "Bem-vindo de volta"
+  },
+  "colorPicker": {
+    "title": "Coletor de Cores",
+    "uploadImage": "Carregar Imagem",
+    "selectColor": "Clique na imagem para selecionar uma cor",
+    "magnifier": "Use a lupa para precisão",
+    "selectedColor": "Cor Selecionada",
+    "addToPalette": "Adicionar à Paleta",
+    "createPalette": "Criar Paleta"
+  },
+  "palettes": {
+    "title": "Minhas Paletas",
+    "public": "Paletas Públicas",
+    "create": "Criar Nova Paleta",
+    "name": "Nome",
+    "description": "Descrição",
+    "colors": "Cores",
+    "isPublic": "Tornar pública",
+    "save": "Salvar",
+    "edit": "Editar",
+    "delete": "Excluir",
+    "share": "Compartilhar",
+    "shareWith": "Compartilhar com",
+    "shared": "Paletas Compartilhadas",
+    "copyHex": "Copiar HEX",
+    "copyRgb": "Copiar RGB",
+    "exportHtml": "Exportar HTML"
+  },
+  "textures": {
+    "title": "Gerador de Texturas",
+    "marble": "Mármore",
+    "wood": "Madeira",
+    "skin": "Pele Humana",
+    "generate": "Gerar Textura",
+    "download": "Baixar",
+    "tips": "Dicas",
+    "marbleTips": "Para criar texturas de mármore realistas, use cores suaves com veios irregulares e contraste moderado.",
+    "woodTips": "Texturas de madeira precisam de linhas de grão consistentes e variações sutis de cor para parecerem naturais.",
+    "skinTips": "Peles humanas variam em tons. Use gradientes suaves e adicione detalhes sutis para realismo.",
+    "types": {
+      "carrara": "Carrara",
+      "calacatta": "Calacatta",
+      "nero": "Nero Marquina",
+      "oak": "Carvalho",
+      "walnut": "Nogueira",
+      "pine": "Pinho",
+      "light": "Clara",
+      "medium": "Média",
+      "dark": "Escura"
+    }
+  },
+  "chat": {
+    "title": "Chat Global",
+    "typeMessage": "Digite uma mensagem...",
+    "send": "Enviar",
+    "online": "Online",
+    "offline": "Offline"
+  },
+  "profile": {
+    "title": "Perfil",
+    "edit": "Editar Perfil",
+    "avatar": "Avatar",
+    "bio": "Biografia",
+    "activityPoints": "Pontos de Atividade",
+    "currentTitle": "Título Atual",
+    "trophies": "Troféus",
+    "achievements": "Conquistas",
+    "save": "Salvar",
+    "titles": {
+      "novice": "Novato",
+      "apprentice": "Aprendiz",
+      "artist": "Artista",
+      "master": "Mestre",
+      "legend": "Lenda"
+    }
+  },
+  "friends": {
+    "title": "Amigos",
+    "add": "Adicionar Amigo",
+    "requests": "Solicitações",
+    "accept": "Aceitar",
+    "reject": "Rejeitar",
+    "sendMessage": "Enviar Mensagem",
+    "messages": "Mensagens",
+    "noFriends": "Você ainda não tem amigos",
+    "noPendingRequests": "Nenhuma solicitação pendente"
+  },
+  "leaderboard": {
+    "title": "Ranking",
+    "rank": "Posição",
+    "user": "Usuário",
+    "points": "Pontos",
+    "title_label": "Título"
+  },
+  "common": {
+    "loading": "Carregando...",
+    "error": "Erro",
+    "success": "Sucesso",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "search": "Pesquisar",
+    "filter": "Filtrar",
+    "sort": "Ordenar",
+    "close": "Fechar"
+  },
+  "settings": {
+    "title": "Configurações",
+    "language": "Idioma",
+    "theme": "Tema",
+    "light": "Claro",
+    "dark": "Escuro"
+  }
+}
